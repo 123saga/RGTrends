@@ -1,4 +1,6 @@
-@ written by Sagar Ganapaneni
-Version 0.1
-
-This package help users to pull google trends data
+Package: RGTrends
+Type: Package
+Title: Pulls Google trend data
+Description: Helps pull google trends data programatically
+Version: 0.1
+Author: Sagar Ganapaneni <123saga@gmail.com>
